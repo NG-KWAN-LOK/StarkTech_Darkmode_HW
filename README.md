@@ -15,3 +15,14 @@
 
 ![screenshot-light](https://puu.sh/Fq13d/04a9e5ad48.png)
 ![screenshot-dark](https://puu.sh/Fq132/caa2fa0c6d.png)
+
+# File Structure
+
+    src
+    ├── common              # Theme context
+    ├── routes              # Page view containers
+    │   └── App
+    │       ├──components   # Page view component
+    │       └──styles       # Page view styles
+    ├── styles              # Color theme for app
+    └── index.jsx           # Entry of react app
