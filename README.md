@@ -16,7 +16,7 @@
 ![screenshot-light](https://puu.sh/Fq13d/04a9e5ad48.png)
 ![screenshot-dark](https://puu.sh/Fq132/caa2fa0c6d.png)
 
-# File Structure
+# File Structure 
 
     src
     ├── common              # Theme context
